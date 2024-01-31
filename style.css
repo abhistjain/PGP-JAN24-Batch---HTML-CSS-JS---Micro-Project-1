@@ -1,0 +1,124 @@
+
+ @import url('https://fonts.googleapis.com/css?family=Tangerine:bold,bolditalic|Inconsolata:italic|Droid+Sans');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+
+ body {
+    background-color:  rgb(243, 198, 143);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+section {
+    text-align: relative;
+    padding: 50px;
+    align-items: center;
+    display: flex;
+}
+
+.login {
+    margin-bottom: 30px;
+}
+
+.login h1 {
+    font-size: 24px;
+    margin-bottom: 5vh;
+    font-size: 7vh;
+    margin-left: 15vh;
+}
+
+.login h2{
+    font-size: 24px;
+    font-size: 7vh;
+    margin-left: 15vh;
+    margin-top: 5vh;
+}
+
+.login h4{
+    margin-left: 15vh;
+}
+
+.login p {
+    font-size: 16px;
+    margin-bottom: 25px;
+    font-size: 4vh;
+    color: #4a4848;
+    margin-left: 15vh;
+}
+
+
+.inputBox {
+    margin-bottom: 20px;
+}
+
+.inputBox input {
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    border-width: 0.5vh;
+    width: 35%;
+    margin-top: 5vh;
+    margin-left: 15vh;
+    
+    
+    
+}
+
+.btn {
+    display: inline-block;
+    background-color:black;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: rgb(114, 111, 111);
+}
+
+.footer {
+    
+    color: #fff;
+    background-color: black;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info p {
+    margin-bottom: 10px;
+    font-size: 14px;
+    margin-left: 15vh;
+    font-size: 20px;
+    
+    
+}
+
+.Contact p {
+    margin-top: 4vh;
+    font-size: 14px;
+    margin-right: 15vh;
+    font-size: 20px;
+    
+}
+
+.fab {
+   
+    color: rgb(243, 198, 143);
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+   
+}
